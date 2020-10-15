@@ -1,0 +1,25 @@
+body {
+    max-width: 1024px;
+    margin: 0 auto;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header {
+    background:white;
+}
+
+header nav {
+    display: inline-block; 
+}
+
+header nav ul li {
+    color:#303130;
+    display: inline-block;
+    margin-right: 20px;
+    font-size: 14px;
+  
+}
+
+.secction1 div {
+display: inline-block;
+}
